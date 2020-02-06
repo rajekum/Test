@@ -3,6 +3,6 @@
 <h2>Hello World! Welcome to Jenkins Training v2 Code Pipeline...</h2>
 <p> Welcome to world of Automation<p>
 <p> Hello Rajesh<p>
- <p> pawan chor hain<p>
+ <p> Hello world<p>
 </body>
 </html>
